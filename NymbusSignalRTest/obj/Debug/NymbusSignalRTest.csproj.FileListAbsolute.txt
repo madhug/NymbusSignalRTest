@@ -1,0 +1,17 @@
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\obj\Debug\NymbusSignalRTest.csprojResolveAssemblyReference.cache
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\NymbusSignalRTest.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\NymbusSignalRTest.pdb
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Newtonsoft.Json.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Owin.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Newtonsoft.Json.xml
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\obj\Debug\NymbusSignalRTest.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\obj\Debug\NymbusSignalRTest.pdb
