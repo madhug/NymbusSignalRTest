@@ -15,7 +15,7 @@ namespace NymbusSignalRTest
 
         protected void Application_Start(object sender, EventArgs e)
         {
-            RouteTable.Routes.MapHubs(new HubConfiguration() { EnableCrossDomain = true });
+            RouteTable.Routes.MapHubs("/signalr", new HubConfiguration() { EnableCrossDomain = true });
         }
 
         protected void Session_Start(object sender, EventArgs e)
