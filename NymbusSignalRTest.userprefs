@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NymbusSignalRTest\EffectsList.cs">
+    <Files>
+      <File FileName="NymbusSignalRTest\effects.cs" Line="1" Column="1" />
+      <File FileName="NymbusSignalRTest\EffectsHub.cs" Line="1" Column="1" />
+      <File FileName="NymbusSignalRTest\EffectsList.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
