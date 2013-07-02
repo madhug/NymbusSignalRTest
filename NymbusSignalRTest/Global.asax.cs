@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 using System.Web.Routing;
+using Microsoft.AspNet.SignalR;
+using Microsoft.AspNet.SignalR.Hubs;
 
 namespace NymbusSignalRTest
 {
@@ -13,7 +15,7 @@ namespace NymbusSignalRTest
 
         protected void Application_Start(object sender, EventArgs e)
         {
-            RouteTable.Routes.MapHubs();
+            RouteTable.Routes.MapHubs(new HubConfiguration() { EnableCrossDomain = true });
         }
 
         protected void Session_Start(object sender, EventArgs e)
