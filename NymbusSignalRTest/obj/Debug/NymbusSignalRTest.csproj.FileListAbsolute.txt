@@ -15,3 +15,7 @@ C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignal
 C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Newtonsoft.Json.xml
 C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\obj\Debug\NymbusSignalRTest.dll
 C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\obj\Debug\NymbusSignalRTest.pdb
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Owin.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Owin.Security.dll
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Owin.xml
+C:\Users\Madhu\Desktop\Idea Foundry\Nymbus\Server\NymbusSignalRTest\NymbusSignalRTest\bin\Microsoft.Owin.Security.xml

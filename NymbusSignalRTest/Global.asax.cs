@@ -7,6 +7,10 @@ using System.Web.SessionState;
 using System.Web.Routing;
 using Microsoft.AspNet.SignalR;
 using Microsoft.AspNet.SignalR.Hubs;
+using Microsoft.AspNet.SignalR.Infrastructure;
+//using Microsoft.AspNet.SignalR.SystemWeb.Infrastructure;
+//using Microsoft.Owin.Host.SystemWeb;
+//using Owin;
 
 namespace NymbusSignalRTest
 {
